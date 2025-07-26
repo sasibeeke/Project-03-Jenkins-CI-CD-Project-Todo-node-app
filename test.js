@@ -39,4 +39,4 @@ describe("Test2", () => {
 	assert.equal(2*4, 8);
 	});
 });
-});
+}); 
